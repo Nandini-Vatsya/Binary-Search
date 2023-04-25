@@ -59,7 +59,7 @@ binarySearch(arr, x, low, high)<br>
 <br>
 The space complexity of the binary search is O(1).<br>
 <br>
-# Applications:-<br>
+# Applications:- <br>
 <br>
 1. In libraries of Java, .Net, C++ STL<br>
 2.While debugging, the binary search is used to pinpoint the place where the error happens.<br>
